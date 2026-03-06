@@ -75,10 +75,10 @@ export default function Home() {
                     <h3 className="text-xl font-bold font-headline">Understanding the Stats</h3>
                   </div>
                   <p className="text-muted-foreground leading-relaxed">
-                    Current estimates from major international organizations like UNICEF and the ILO suggest that approximately 138 to 160 million children between the ages of 5 and 17 are engaged in labor globally. That's nearly 1 in 10 children worldwide.
+                    Current estimates from major organizations like UNICEF and the ILO claim that around 138 to 160 million children between the ages of 5 and 17 are involved in labor globally. That's nearly 1 in 10 children worldwide.
                   </p>
                   <p className="text-muted-foreground leading-relaxed">
-                    This website visualizes this data to highlight regions where prevalence is highest—often exceeding 40% in some nations.
+                    This website visualizes this data to highlight regions where prevalence is highest, often exceeding 40% in some nations.
                   </p>
                 </div>
               </div>
