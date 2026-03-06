@@ -92,9 +92,8 @@ export default function Home() {
           <div className="col-span-full md:col-span-2 text-center md:text-left">
             <h3 className="text-xl font-bold font-headline mb-4 text-primary">Child Labor Maps</h3>
             <p className="opacity-70 max-w-sm mx-auto md:mx-0 mb-6">
-              A data-driven platform dedicated to transparency and action in the global fight against child labor.
             </p>
-            <p className="text-xs text-muted-foreground">© 2026 Damien Sullins. All rights reserved.</p>
+            <p className="text-xs text-muted-foreground">© 2026 Damien Sullins</p>
           </div>
         </div>
       </footer>
