@@ -1,0 +1,23 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "Global children and maps",
+      "imageUrl": "https://picsum.photos/seed/fairfuture1/1200/600",
+      "imageHint": "global children education"
+    },
+    {
+      "id": "resource-org-1",
+      "description": "UNICEF building or logo",
+      "imageUrl": "https://picsum.photos/seed/org1/400/300",
+      "imageHint": "international organization"
+    },
+    {
+      "id": "report-cover-1",
+      "description": "Annual report cover",
+      "imageUrl": "https://picsum.photos/seed/report1/400/600",
+      "imageHint": "data report"
+    }
+  ]
+}
